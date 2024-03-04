@@ -1,0 +1,13 @@
+{
+  "name": "js-algorithms-and-data-structures-masterclass",
+  "version": "1.0.0",
+  "description": "This is the repo to track all my JavaScript Algorithms and Data Structures Masterclass from Udemy work",
+  "type": "module",
+  "main": "timer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
